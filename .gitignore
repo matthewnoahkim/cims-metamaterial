@@ -1,0 +1,25 @@
+# Already its own repo at github.com/matthewnoahkim/metamaterial-generator
+Metamaterial Generator/
+
+# Raw training image datasets (~10.5k files) — kept out to keep the repo lean.
+# Remove these lines and re-add if you want the images tracked.
+Dataset Preparation/training_dataset_8040/images/
+Dataset Preparation/auxetic_dataset/images/
+Dataset Preparation/original_dataset_480/images/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+.vscode/
+.idea/
