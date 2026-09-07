@@ -1,0 +1,12 @@
+{
+  "conv_warm": 0.10618794145224428,
+  "kstar_warm": 1,
+  "conv_guided": 0.10794889666769839,
+  "kstar_guided": 1,
+  "n": 16,
+  "targets": [
+    -0.5,
+    -0.3
+  ],
+  "iters": 30
+}
